@@ -20,6 +20,9 @@ Research on spend analysis and Design is completed on cloud central.
 
 DATE: 08-03-2024
 Research on Spend Analysis.
+https://crespowang.medium.com/lesson-learned-from-using-aws-credits-5515d7962006
+https://aws.amazon.com/iq/experts/pricing/
+
 
 DATE: 11-03-2024
 Written use cases on cloud central.
@@ -29,15 +32,25 @@ Completed use case and research on spend Analysis.
 
 DATE: 13-03-2024
 Research on spend analysis.
+https://docs.aws.amazon.com/cost-management/latest/userguide/ce-filtering.html
+https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html
 
 DATE: 14-03-2024
 Research on spend analysis.
+Links:
+https://aws.amazon.com/tax-help/
+https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-effective.html 
 
 DATE: 15-03-2024
 Research on spend analysis
+https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-effective.html 
+https://www.amazonaws.cn/en/pricing/
 
 DATE: 18-03-2024
 Research on spend analysis
+https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html
+https://www.retailcouncil.org/resources/quick-facts/sales-tax-rates-by-province/
+https://aws.amazon.com/tax-help/Brazil/
 
 DATE: 19-03-2024
 Research on spend analysis and writing Algorithm on cloud central
