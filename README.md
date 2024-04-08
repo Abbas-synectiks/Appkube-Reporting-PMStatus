@@ -59,12 +59,22 @@ Written Algorithm and submitted.
 
 DATE:28-03-2024
 Research on Spend analysis.
+https://aws.amazon.com/startups.
+https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html
+https://aws.amazon.com/iq/experts/pricing/
+https://d36cz9buwru1tt.cloudfront.net/APN_FAQs_040312.pdf
 
 DATE:29-03-2024
 Research on Spend analysis.
+Link of Research
+CostTypes - AWS Billing and Cost Management
+Filtering the data that you want to view - AWS Cost Management
+Exploring your data using Cost Explorer - AWS Cost Management
 
 DATE:01-04-2024
 Research on Spend analysis.
+Links Of Research
+Filtering the data that you want to view - AWS Cost Management
 
 DATE:02-04-2024
 Research on Spend analysis in TAX Releated Topic , APN, Other subscription.
