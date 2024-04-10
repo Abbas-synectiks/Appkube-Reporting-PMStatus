@@ -113,3 +113,9 @@ https://docs.aws.amazon.com/marketplace/latest/userguide/listing-fees.html
 https://d1.awsstatic.com/awsmp/solutions/mk-sol-files/private-offers/Vendor_Finance_Success-AWS_Marketplace_VFS_Guide_and_FAQ.pdf?ref_=awsmp_fea_pvo_sd_vnfaq&trk=awsmp_fea_pvo_sd_vnfaq
 https://aws.amazon.com/blogs/awsmarketplace/managing-aws-marketplace-spend-purchase-order-features/
 
+DATE:08-04-2024
+Research on discount in aws and started paper prototyping on spend analysis.
+Links of Research in Spend Analysis.
+https://docs.vantage.sh/cost_reports/#credits-discounts
+https://www.vantage.sh/blog/analyze-aws-cost-data
+
