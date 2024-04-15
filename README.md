@@ -122,3 +122,7 @@ https://www.vantage.sh/blog/analyze-aws-cost-data
 DATE:10-04-2024
 Research on spend analysis for Paper protyping and reseach on SPP(Solution Provider Program.)
 
+DATE:15-04-2024
+Doing paper prototyping for spend analysis and research for designing.
+
+
