@@ -119,3 +119,6 @@ Links of Research in Spend Analysis.
 https://docs.vantage.sh/cost_reports/#credits-discounts
 https://www.vantage.sh/blog/analyze-aws-cost-data
 
+DATE:10-04-2024
+Research on spend analysis for Paper protyping and reseach on SPP(Solution Provider Program.)
+
